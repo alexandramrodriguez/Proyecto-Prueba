@@ -1,1 +1,1 @@
-//Para poder ejecutar el archivo, primero instalar Xampp
+Para poder ejecutar el archivo, primero instalar Xampp
