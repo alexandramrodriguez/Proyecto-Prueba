@@ -1,4 +1,5 @@
-//Para poder ejecutar el archivo, primero instalar Xampp
+//Primero instalar Xampp
+//Ejecutar el archivo desde Visual Studio Code
 
 //Base de datos ingresado en phpMyAdmin previamente:
 CREATE DATABASE vip2cars_db;
