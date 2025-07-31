@@ -1,7 +1,13 @@
+//El primer ejercicio del modelado de una base de datos para encuestas anonimas están en el archivo que dice sistema_encuestas.sql
+
 //Primero instalar Xampp
-//Ejecutar el archivo desde Visual Studio Code
+
+//Ejecutar el archivo desde Visual Studio Code (en la carpeta vip2cars se encuentra el proyecto)
+
+//Luego en el navegador para visualizar el sistema colocar: http://localhost/vip2cars/
 
 //Base de datos ingresado en phpMyAdmin previamente:
+
 CREATE DATABASE vip2cars_db;
 
 USE vip2cars_db;
@@ -18,3 +24,4 @@ CREATE TABLE vehiculos (
   correo_cliente VARCHAR(100),
   telefono_cliente VARCHAR(20)
 );
+
